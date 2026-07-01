@@ -300,7 +300,7 @@ ORDER BY total_tracks DESC;
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Spotify-Music-Intelligence-Platform.git
+git clone https://github.com/bharathgopalswamy/Spotify-Music-Intelligence-Platform.git
 ```
 
 ---
