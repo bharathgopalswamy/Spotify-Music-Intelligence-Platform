@@ -3,7 +3,7 @@
 > An end-to-end Data Analytics project that extracts real-world Spotify music data, transforms it through an ETL pipeline, stores it in MySQL, performs analytical SQL queries, and visualizes business insights using Power BI.
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Spotify Music Intelligence Dashboard" width="900">
+  <img src="screenshots/main-dashboard.png" alt="Spotify Music Intelligence Dashboard" width="900">
 </p>
 
 <p align="center">
