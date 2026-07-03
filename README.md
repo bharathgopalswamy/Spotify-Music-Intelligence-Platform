@@ -435,5 +435,3 @@ St. Francis Xavier University
 🐙 GitHub: https://github.com/bharathgopalswamy
 
 ---
-
-# ⭐ If you found this project interesting, consider giving it a star!
